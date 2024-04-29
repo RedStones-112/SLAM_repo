@@ -1,0 +1,46 @@
+[0.011s] Invoking command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake /home/rds/Desktop/git_ws/SLAM_repo/src/my_robot_navigation -DCMAKE_INSTALL_PREFIX=/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation
+[0.045s] -- The C compiler identification is GNU 11.4.0
+[0.081s] -- The CXX compiler identification is GNU 11.4.0
+[0.085s] -- Detecting C compiler ABI info
+[0.133s] -- Detecting C compiler ABI info - done
+[0.138s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.138s] -- Detecting C compile features
+[0.138s] -- Detecting C compile features - done
+[0.140s] -- Detecting CXX compiler ABI info
+[0.195s] -- Detecting CXX compiler ABI info - done
+[0.204s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.204s] -- Detecting CXX compile features
+[0.205s] -- Detecting CXX compile features - done
+[0.208s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.318s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.397s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.473s] -- Added test 'lint_cmake' to check CMake code style
+[0.474s] -- Added test 'xmllint' to check XML markup files
+[0.476s] -- Configuring done
+[0.478s] -- Generating done
+[0.481s] -- Build files have been written to: /home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation
+[0.485s] Invoked command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake /home/rds/Desktop/git_ws/SLAM_repo/src/my_robot_navigation -DCMAKE_INSTALL_PREFIX=/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation
+[0.487s] Invoking command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake --build /home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation -- -j8 -l8
+[0.535s] Invoked command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake --build /home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation -- -j8 -l8
+[0.558s] Invoking command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake --install /home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation
+[0.564s] -- Install configuration: ""
+[0.564s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch
+[0.564s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/map_building.launch.xml
+[0.564s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/config
+[0.564s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/config/mapper_params.yaml
+[0.564s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/ament_index/resource_index/package_run_dependencies/my_robot_navigation
+[0.564s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/ament_index/resource_index/parent_prefix_path/my_robot_navigation
+[0.564s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.sh
+[0.565s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/environment/ament_prefix_path.dsv
+[0.565s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/environment/path.sh
+[0.565s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/environment/path.dsv
+[0.565s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/local_setup.bash
+[0.565s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/local_setup.sh
+[0.565s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/local_setup.zsh
+[0.567s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/local_setup.dsv
+[0.567s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/package.dsv
+[0.568s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/ament_index/resource_index/packages/my_robot_navigation
+[0.568s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig.cmake
+[0.568s] -- Installing: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/cmake/my_robot_navigationConfig-version.cmake
+[0.568s] -- Up-to-date: /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/package.xml
+[0.568s] Invoked command in '/home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/rds/Desktop/git_ws/ROS_ws/install/opencv_tutorials:/home/rds/Desktop/git_ws/ROS_ws/install/first_package:/home/rds/Desktop/git_ws/ROS_ws/install/camera_app_pkg:/opt/ros/humble /usr/bin/cmake --install /home/rds/Desktop/git_ws/SLAM_repo/build/my_robot_navigation
