@@ -1,4 +1,9 @@
+/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/nav2_view.launch.xml
+/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/navigation_launch.xml
+/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/localization_launch.xml
 /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/map_building.launch.xml
+/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/launch/bringup_launch.xml
+/home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/config/nav2_params.yaml
 /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/my_robot_navigation/config/mapper_params.yaml
 /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/ament_index/resource_index/package_run_dependencies/my_robot_navigation
 /home/rds/Desktop/git_ws/SLAM_repo/install/my_robot_navigation/share/ament_index/resource_index/parent_prefix_path/my_robot_navigation
