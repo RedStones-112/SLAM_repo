@@ -1,0 +1,24 @@
+[0.021s] Invoking command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo -- -j8 -l8
+[0.052s] Invoked command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo -- -j8 -l8
+[0.078s] Invoking command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo
+[0.086s] -- Install configuration: ""
+[0.086s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch
+[0.087s] -- Installing: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/launch/launch_sim.launch.xml
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/config
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/config/my_controllers.yaml
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/package_run_dependencies/my_robot_gazebo
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/parent_prefix_path/my_robot_gazebo
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/ament_prefix_path.sh
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/ament_prefix_path.dsv
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/path.sh
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/environment/path.dsv
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.bash
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.sh
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.zsh
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/local_setup.dsv
+[0.087s] -- Installing: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/package.dsv
+[0.087s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/ament_index/resource_index/packages/my_robot_gazebo
+[0.088s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/cmake/my_robot_gazeboConfig.cmake
+[0.088s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/cmake/my_robot_gazeboConfig-version.cmake
+[0.088s] -- Up-to-date: /home/rds/Desktop/git_ws/my_mobile/install/my_robot_gazebo/share/my_robot_gazebo/package.xml
+[0.097s] Invoked command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rds/Desktop/git_ws/my_mobile/build/my_robot_gazebo

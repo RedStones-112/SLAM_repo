@@ -1,0 +1,9 @@
+slam_toolbox:
+  ros__parameters:
+  # ROS Parameters
+    odom_frame: odom
+    map_frame: map
+    base_frame: base_footprint
+    scan_topic: /scan
+    mode: mapping #localization
+    map_update_rate: 5.0
