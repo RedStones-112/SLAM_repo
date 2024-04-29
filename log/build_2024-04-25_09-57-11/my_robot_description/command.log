@@ -1,2 +1,0 @@
-Invoking command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rds/Desktop/git_ws/my_mobile/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/rds/Desktop/git_ws/my_mobile/install/my_robot_description
-Invoked command in '/home/rds/Desktop/git_ws/my_mobile/build/my_robot_description' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rds/Desktop/git_ws/my_mobile/src/my_robot_description -DCMAKE_INSTALL_PREFIX=/home/rds/Desktop/git_ws/my_mobile/install/my_robot_description
