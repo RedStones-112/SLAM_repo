@@ -1,0 +1,53 @@
+/way_points:
+  ros__parameters:
+    pose_orientation_w_list:
+    - 0.94
+    - 0.76
+    - 0.37
+    - 0.17
+    - 0.24
+    - 0.76
+    pose_orientation_x_list:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    pose_orientation_y_list:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    pose_orientation_z_list:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    pose_position_x_list:
+    - 5.9
+    - 7.8
+    - 7.89
+    - 5.68
+    - 1.45
+    - 0.19
+    pose_position_y_list:
+    - 0.04
+    - -2.0
+    - -2.9
+    - -4.77
+    - -2.07
+    - -3.74
+    pose_position_z_list:
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+    use_sim_time: false
+
